@@ -28,7 +28,7 @@ local function loadNexus()
     ]])
     
     -- Configuration (update YOUR_USERNAME with your GitHub username)
-    local GITHUB_REPO = "YOUR_USERNAME/ProjectNexus"
+    local GITHUB_REPO = "porpora02-ai/ProjectNexus"
     local GITHUB_BRANCH = "main"
     local GITHUB_BASE = string.format("https://raw.githubusercontent.com/%s/%s/", GITHUB_REPO, GITHUB_BRANCH)
     
