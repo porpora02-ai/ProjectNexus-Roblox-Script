@@ -13,7 +13,7 @@
 ]]
 
 -- Configuration
-local GITHUB_REPO = "HyperCodez495/ProjectNexus-Roblox-Script"
+local GITHUB_REPO = "porpora02-ai/ProjectNexus-Roblox-Script"
 local GITHUB_BRANCH = "main"
 local GITHUB_BASE = string.format("https://raw.githubusercontent.com/%s/%s/", GITHUB_REPO, GITHUB_BRANCH)
 
